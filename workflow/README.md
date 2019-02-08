@@ -1,4 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# The workflow folder
+
+## Directory tree
+
+### This is the dist folder of workflow
+* public -> public data and index.html
+public<br>
+  |- favicon.ico<br>
+  |- index.html<br>
+  |- manifest.json<br>
+  
+* src -> source code
+src<br>
+  |- App.css<br>
+  |- App.js<br>
+  |- App.save.js<br>
+  |- App.test.js<br>
+  |- index.css<br>
+  |- index.js<br>
+  |- logo.svg<br>
+  |- serviceWorker.js<br>
+  
+* README.md -> README file
+README.md<br>
+
+* package.json -> dependencies
+package.json<br>
 
 ## Using yarn
 run `yarn`
